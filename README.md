@@ -100,7 +100,7 @@ after installation navigate to the main script diractory folder and run :
 
 
 ### Contributing
----
+
 Please see first the [CHANGELOG](CHANGELOG.md) guide.  
 
 Feel free to mail to :  
@@ -114,7 +114,7 @@ Feel free to mail to :
 
  
 ### License
----
+
 This project is actually under The GNU General Public License.  
  See the [LICENCE](LICENCE) file for more details.    
 
